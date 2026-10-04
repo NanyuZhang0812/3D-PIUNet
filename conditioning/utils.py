@@ -191,6 +191,7 @@ def get_mne_src_fwd_inv(mode="train", eeg_data=None):
 
     return {"src": vol_src, "fwd": fwd, "inv": inv, "info": info, "cov": noise_cov}
 
+#TODO: 获取初始信息
 def get_info(kind='easycap-M10', sfreq=1000):
     ''' Create some generic mne.Info object.
     Parameters
