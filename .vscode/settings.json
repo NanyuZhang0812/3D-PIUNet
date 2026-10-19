@@ -4,5 +4,6 @@
     "git.openRepositoryInParentFolders": "always",
     "git.useEditorAsCommitInput": false,
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.defaultInterpreterPath": "/home/zhangnanyu/.conda/envs/piunet/bin/python"
 }
